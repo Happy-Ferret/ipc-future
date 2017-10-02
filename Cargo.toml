@@ -1,0 +1,7 @@
+[package]
+name = "ipc-future"
+version = "0.1.0"
+authors = ["Dzmitry Malyshau <kvark@mozilla.com>"]
+
+[dependencies]
+ipc-channel = "0.8"
