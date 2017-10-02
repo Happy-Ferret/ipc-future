@@ -2,6 +2,10 @@
 name = "ipc-future"
 version = "0.1.0"
 authors = ["Dzmitry Malyshau <kvark@mozilla.com>"]
+description = "Futuristic IPC channels"
+documentation = "https://docs.rs/ipc-future"
+repository = "https://github.com/ipc-future"
+keywords = ["ipc", "future"]
 
 [dependencies]
 bincode = "0.8" #TODO: remove
